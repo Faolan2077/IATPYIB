@@ -21,11 +21,11 @@
 
 ### Шаг 1. Установка интерпретатора R
 
-![](https://github.com/bondarenkosa11/Bondarenko_R/blob/main/Lab_0/img/установка%20Rstd.png)
+![](img/установка%20Rstd.png)
 
 ### Шаг 2. Создание репозитория на GitHub
 
-![](https://github.com/bondarenkosa11/Bondarenko_R/blob/main/Lab_0/img/скрин%20репр.png)
+![](img/скрин%20репр.png)
 
 ### Шаг 3. Оформить отчет в соотвествии с шаблоном. Отчет может содержать код.
 
