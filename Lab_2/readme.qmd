@@ -1,6 +1,6 @@
 ---
 title: "Основы обработки данных с помощью R и Dplyr №1
-        Бондаренко С.А."
+        Шкуров К.А."
 format: 
   md:
     output-file: README.md
