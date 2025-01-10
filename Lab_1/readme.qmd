@@ -28,11 +28,11 @@ format:
 
 ### Шаг 1. Установка программного пакет swirl.
 
-![](https://github.com/bondarenkosa11/Bondarenko_R/blob/main/Lab_1/img/install%20swirl.png)
+![](img/install%20swirl.png)
 
 ### Шаг 2. Запуск swirl и выбор обучения
 
-![](https://github.com/bondarenkosa11/Bondarenko_R/blob/main/Lab_1/img/запуск%20swirl.png)
+![](img/запуск%20swirl.png)
 
 ### Шаг 3. Выполнение курсов
 
